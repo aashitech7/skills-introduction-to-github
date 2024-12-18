@@ -25,6 +25,6 @@ Always looking for new challenges and opportunities to learn and grow.
   - GitHub Actions 
 
 **Projects:** 
-> [Detailed descriptions of projects, highlighting key accomplishments and technologies used]  
+> Bingo Game named `Aash Bingo` developed using Blazor server app.
 
-**Open to Work:** [Yes/No - optional]  
+**Open to Work:** Yes  
