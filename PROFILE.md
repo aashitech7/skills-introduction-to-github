@@ -8,11 +8,21 @@ Always looking for new challenges and opportunities to learn and grow.
 
 **Contact:** aashitech@gmail.com  
 
-**Skills:** [More extensive list of skills, possibly categorized]  
+**Skills:**  
 
-* **Programming Languages:** -C# -C++ -Java  
-* **Frameworks/Libraries:** -.NET -ASP.NET Core -WinForms  
-* **Tools:** -Visual Studio -NuGet -Azure DevOps -GitHub Actions 
+* **Programming Languages:**
+  - C#
+  - C++
+  - Java  
+* **Frameworks/Libraries:**
+  - .NET
+  - ASP.NET Core
+  - WinForms  
+* **Tools:**
+  - Visual Studio
+  - NuGet
+  - Azure DevOps
+  - GitHub Actions 
 
 **Projects:** [Detailed descriptions of projects, highlighting key accomplishments and technologies used]  
 
