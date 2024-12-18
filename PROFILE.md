@@ -24,6 +24,7 @@ Always looking for new challenges and opportunities to learn and grow.
   - Azure DevOps
   - GitHub Actions 
 
-**Projects:** [Detailed descriptions of projects, highlighting key accomplishments and technologies used]  
+**Projects:** 
+> [Detailed descriptions of projects, highlighting key accomplishments and technologies used]  
 
 **Open to Work:** [Yes/No - optional]  
